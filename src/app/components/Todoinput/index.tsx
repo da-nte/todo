@@ -1,4 +1,3 @@
-import { P } from 'app/pages/NotFoundPage/P';
 import React from 'react';
 import styled from 'styled-components';
 
